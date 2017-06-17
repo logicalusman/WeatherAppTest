@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="fetching_weather_info">Fetching weather info ...</string>
+    <string name="ok">Ok</string>
+    <string name="unable_to_connect">Unable to connect</string>
+    <string name="internet_connection_msg">Make sure your device has a valid internet connection.</string>
+    <string name="error">Error</string>
+    <string name="unknown_error_msg">An unknown error has occurred. Please contact support team.</string>
+
+
+</resources>
